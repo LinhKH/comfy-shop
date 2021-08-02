@@ -9,7 +9,6 @@ const Filters = () => {
 
     const {
         filters: {
-            text,
             category,
             company,
             color,
